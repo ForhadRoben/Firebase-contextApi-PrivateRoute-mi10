@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type="text"],
+input[type="password"],
+textarea {
+
+    background-color: #32f1d1;
+
+}
+
+input::placeholder {
+    color: #f621ab;
+}
