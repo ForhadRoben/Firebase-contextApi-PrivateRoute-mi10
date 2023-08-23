@@ -1,0 +1,10 @@
+.main-bg {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../src/assets/Sreemongol.png');
+    object-fit: cover;
+    background-size: cover;
+    background-position: center;
+    /* background-color: rgba(0, 0, 0, 0.34); */
+    color: white;
+}
